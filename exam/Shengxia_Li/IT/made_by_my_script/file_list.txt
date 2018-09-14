@@ -1,0 +1,5 @@
+total 16
+-rw-r--r--@ 1 apple  staff  98 Sep 14 16:36 My_script.sh
+-rw-r--r--  1 apple  staff   0 Sep 14 16:39 file_list.txt
+-rw-r--r--  1 apple  staff  12 Sep 14 16:39 hello.txt
+drwxr-xr-x  2 apple  staff  64 Sep 14 16:39 made_by_my_script
